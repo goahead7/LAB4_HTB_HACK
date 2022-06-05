@@ -18,7 +18,7 @@
 ![image](https://user-images.githubusercontent.com/62139377/172030426-62191bd4-6d3c-425b-9b36-245e63b1aba0.png)  
 Проверяем найденные данные, пытаясь подключиться по ssh  
 ![image](https://user-images.githubusercontent.com/62139377/172030473-f7fabfdb-e3aa-409f-91b3-7d88cda6b040.png)  
-Получилось зайти в машину и посмотрели ID
+Получилось зайти в машину и посмотрели ID(реальный идентификатор пользователя)
 ![image](https://user-images.githubusercontent.com/62139377/172030509-3dbf8ecb-98cd-4c01-88c2-5289db7f1605.png)  
 Не получилось добыть флаг, отказали в доступе  
 ![image](https://user-images.githubusercontent.com/62139377/172030576-4dd77e28-cf66-498b-a242-64cd9be2a7b3.png)  
