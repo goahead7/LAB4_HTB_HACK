@@ -28,7 +28,7 @@
 ![image](https://user-images.githubusercontent.com/62139377/172030731-a2d372e1-a675-4046-bba2-fea0c6f8436b.png)  
 Получилось пробросить порты  
 ![image](https://user-images.githubusercontent.com/62139377/172030761-f5b05940-c8e1-4d8f-b813-cd2de26c16ab.png)  
-Пробуем подключиться к веб-серверу  
+Пробуем подключиться к веб-серверу. Войти с найденым логином и паролем не получилось
 ![image](https://user-images.githubusercontent.com/62139377/172030798-1a3fcb6b-2b6e-4d9f-bbc3-08708c13c23d.png)  
 Пробуем найти cve по ключевым словам "Pandora" и "v7.ONG.742_FIX_PERL2020"  
 ![image](https://user-images.githubusercontent.com/62139377/172030883-c2de2074-2ac0-42c5-b6fa-ed11bee487e2.png)  
