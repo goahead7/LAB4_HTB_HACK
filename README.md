@@ -10,8 +10,7 @@
 Сканируем udp порты  
 <img width="674" alt="Снимок экрана 2022-06-04 в 13 00 29" src="https://user-images.githubusercontent.com/63841835/171977115-26d22f59-1970-472f-89f9-32f68b974155.png"> Нашли 161 port  
 Отсканировали порт 161
-<img width="562" alt="Снимок экрана 2022-06-04 в 13 38 18" src="https://user-images.githubusercontent.com/63841835/171980491-25f4362e-be3e-4c37-a332-952bccba7cc6.png">  
-![image](https://user-images.githubusercontent.com/62139377/172032222-4557b407-63d3-4a72-96e7-d7ed1294be19.png)
+<img width="562" alt="Снимок экрана 2022-06-04 в 13 38 18" src="https://user-images.githubusercontent.com/63841835/171980491-25f4362e-be3e-4c37-a332-952bccba7cc6.png"> 
 
 Пробуем найти пароль от машины по ключевому слову "public", которое нашли ранее  
 ![image](https://user-images.githubusercontent.com/62139377/172030424-074ca3ae-a82b-44a8-93f9-459a05b0eba6.png)  
